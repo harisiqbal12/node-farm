@@ -4,7 +4,6 @@
   "description": "node projects",
   "main": "index.js",
   "scripts": {
-    "server": "nodemon index.js"
   },
   "author": "Harrisk",
   "license": "ISC",
